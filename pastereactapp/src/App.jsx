@@ -36,7 +36,8 @@ const router = createBrowserRouter(
 
     }
 
-  ]
+  ],
+  { basename: "/pastereactapp" }
 );
 
 
